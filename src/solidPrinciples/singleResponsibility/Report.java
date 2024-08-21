@@ -1,4 +1,4 @@
-package solid.singleResponsibility;
+package solidPrinciples.singleResponsibility;
 
 public class Report {
     private String name;

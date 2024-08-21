@@ -1,4 +1,4 @@
-package solid.interfaceSegregation;
+package solidPrinciples.interfaceSegregation;
 
 public interface Eatable {
     public void eat();

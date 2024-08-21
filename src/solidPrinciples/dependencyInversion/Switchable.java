@@ -1,4 +1,4 @@
-package solid.dependencyInversion;
+package solidPrinciples.dependencyInversion;
 
 public interface Switchable {
     public void turnOn();

@@ -1,4 +1,4 @@
-package solid.interfaceSegregation;
+package solidPrinciples.interfaceSegregation;
 
 public class Main {
     public static void main(String[] args) {

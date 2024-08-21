@@ -1,4 +1,4 @@
-package solid.dependencyInversion;
+package solidPrinciples.dependencyInversion;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package solid.dependencyInversion;
+package solidPrinciples.dependencyInversion;
 
 public class LightBulb implements Switchable {
     @Override
