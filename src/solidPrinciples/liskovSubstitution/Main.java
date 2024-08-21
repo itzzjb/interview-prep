@@ -1,4 +1,4 @@
-package solidPrinciples.liskov;
+package solidPrinciples.liskovSubstitution;
 
 public class Main {
     public static void main(String[] args) {
