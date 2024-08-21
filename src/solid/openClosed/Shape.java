@@ -1,4 +1,4 @@
-package openClosed;
+package solid.openClosed;
 
 public abstract class Shape {
     public abstract double calculateArea();

@@ -1,4 +1,4 @@
-package openClosed;
+package solid.openClosed;
 
 public class Rectangle extends Shape {
     private double width;

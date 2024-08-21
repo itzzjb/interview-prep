@@ -1,4 +1,4 @@
-package liskov;
+package solid.liskov;
 
 // Not every bird can fly
 public abstract class FlyingBird extends Bird {

@@ -1,4 +1,4 @@
-package openClosed;
+package solid.openClosed;
 
 public class AreaCalculator {
     public static void calculateArea(Shape shape) {

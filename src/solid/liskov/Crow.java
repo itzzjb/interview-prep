@@ -1,4 +1,4 @@
-package liskov;
+package solid.liskov;
 
 public class Crow extends FlyingBird {
     @Override

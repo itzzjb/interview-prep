@@ -1,4 +1,4 @@
-package interfaceSegregation;
+package solid.interfaceSegregation;
 
 public class Human implements Eatable, Workable {
     @Override

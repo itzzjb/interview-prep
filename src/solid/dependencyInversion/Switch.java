@@ -1,4 +1,4 @@
-package dependencyInversion;
+package solid.dependencyInversion;
 
 public class Switch {
 

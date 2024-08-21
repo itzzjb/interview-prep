@@ -1,4 +1,4 @@
-package openClosed;
+package solid.openClosed;
 
 public class Circle extends Shape {
     private double radius;

@@ -1,4 +1,4 @@
-package singleResponsibility;
+package solid.singleResponsibility;
 
 public class ReportPrinter {
 
